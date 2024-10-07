@@ -1,15 +1,21 @@
-# BOBOM
+# BOBOM "BOLA BOM" 🎮💣
+
+Selamat datang di repositori **BOBOM "BOLA BOM"**, sebuah game sederhana yang dibuat menggunakan **UNITY**. Proyek ini dirancang untuk memenuhi tugas **Ujian Akhir Semester** mata kuliah **Pemrograman Game** pada semester lima (V) Program Studi **Teknik Informatika**, Fakultas Sains dan Teknologi, Universitas Muhammadiyah Sukabumi.
+
+## Deskripsi Proyek
+BOBOM "BOLA BOM" adalah permainan sederhana bola yang ketika menabrak box. akan mendapatkan poin dan ketika menambrak bom, game akan berakhir
+
+## Fitur Utama
+- **Kontrol Bola**: Pemain mengendalikan bola untuk menghindari bom.
+- **Ledakan**: Bom akan meledak jika tersentuh bola, dan permainan berakhir.
 
 
+## TEAM BOBOM
+Proyek ini dikembangkan oleh **TEAM BOBOM "BOLA BOM"**:
+- **Delvia Lanasemba**
+- **Neng Fia Anggita Zalsabila**
 
-BOBOM "BOLA BOM"
-
-Sebuah Permainan Sederhana di UNITY dibangun untuk memenuhi Ujian Akhir Semester mata kuliah Pemrograman Game semester lima(V) Program Studi Teknik Informatika Fakultas Sains dan Teknologi Universitas Muhammadiyah Sukabumi.
-
-TEAM BOBOM "BOLA BOM"
-1. Delvia Lanasemba
-2. Neng Fia Anggita Zalsabila
+## Demo Game
 
 
-Teknik Informatika 5B
-2023
+- Dibuat Tahun 2023
